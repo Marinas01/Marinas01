@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marinas01
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in Tech and Sciience
 - 🌱 I’m currently learning Web Development and Physics
 - 💞️ I’m looking to collaborate on Open-Source Projects
