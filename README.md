@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrei
-- 👀 I’m interested in Tech and Sciience
+- 👀 I’m interested in Tech and Science
 - 🌱 I’m currently learning Web Development and Physics
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me you can chat with me on facebook at 'Andrei Marinas'
